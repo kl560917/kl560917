@@ -1,0 +1,266 @@
+.bg-custom { 
+    background-color: black;
+}
+.navbar-text {
+    color: #fff;
+    text-align: right;
+}
+
+.navbar-nav{
+    font-size: 16px;
+    text-align: right;
+}
+
+.nav-right {
+    text-align: right;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    font: 400 1.4rem 'Lato', Verdana, Helvetica, sans-serif;
+}
+
+.navbar-text {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.navbar-brand {
+    font-family: 'Bebas Neue', cursive;
+}
+
+span {
+    color: #fff;
+}
+
+.about_section {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 100px;
+    text-align: center;
+    color: #fff;
+    background: #000;
+    padding-top: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.about_des {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #fff;
+    padding-bottom: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.merch_section {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 100px;
+    text-align: left;
+    color: #000;
+    background: #fff;
+    padding-top: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.hr-style {
+    border-color: #fff;
+    border-bottom-style: solid;
+}
+
+.merch {
+    text-align: center;
+}
+
+.hr-merch-style {
+    border-color: #000;
+}
+
+.p-merch {
+    color:#000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+.footer-style{
+    background:#000;
+    font-size: 50px;
+    font-family: 'Bebas Neue', cursive;
+    color: #fff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+.hoodie-des {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    color: #000;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.white-hoodie-des {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #000;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.black-hoodie-des {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #000;
+    padding-bottom: 100px;
+    padding-left: 20px;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.img {
+    align-content: center;
+}
+
+.buy-now {
+    color:#555555;
+}
+
+.buy-now:hover {
+    color:#555555;
+}
+
+.contact-head {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 100px;
+    text-align: center;
+    color: #000;
+    background: #fff;
+    padding-top: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.contact{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #000;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.contact-send-btn {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    background-color: #000;
+    color:#fff;
+}
+
+.contact-send-btn:hover {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    background-color: #fff;
+    color:#000;
+    border-color:#000;
+}
+
+.contact-section {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 100px;
+}
+
+form {
+    padding-bottom: 50px;
+}
+
+.merch-head {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 100px;
+    text-align: center;
+    color: #000;
+    background: #fff;
+    padding-top: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.checkout-section {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 100px;
+}
+
+.checkout-head {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 100px;
+    text-align: center;
+    color: #000;
+    background: #fff;
+    padding-top: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.checkout-cart {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    color: #000;
+}
+
+.checkout {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color:#000;
+}
+
+.checkout-btn {
+    background-color: #000;
+    color:#fff;
+}
+
+.checkout-btn:hover {
+    background-color: #fff;
+    color:#000;
+    border-color:#000; 
+}
+
+.cancel-btn{
+    background-color: #000;
+    color:#fff;
+}
+
+.cancel-btn:hover{
+    background-color: #fff;
+    color:#000;
+    border-color:#000;
+}
+
+.size {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer {
+    background: #000;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.footer-font-style {
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+}
+
+body, html {
+  height: 100%;
+}
